@@ -51,7 +51,7 @@ https://github.com/Nitya-Kalloli/Face-Recognition/assets/123582746/c8b7a8ce-c08e
  - [Lula da Silva](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva)
  - [Cyril Ramaphosa](https://en.wikipedia.org/wiki/Cyril_Ramaphosa)   
       
-To be able to recognise any face you want to all you need is a few photos of that person and follow the documentation [here](https://github.com/NikhilKalloli/Face-Recognition/blob/main/Custom.md).
+To be able to recognise any face you want to all you need is a few photos of that person and follow the documentation [here](https://github.com/Nitya-Kalloli/Face-Recognition/blob/main/Custom.md).
 
 Watch a Youtube Video [here](https://youtu.be/FoQ_aJkYwBE?si=wyG9eSOnqBg0upyL) if you find it hard to follow.
 

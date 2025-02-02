@@ -81,5 +81,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Feedback
 
-If you have any feedback, please reach out to me at nikhilkalloli0097@gmail.com
+If you have any feedback, please reach out to me at nityakalloli.dev@gmail.com
    
